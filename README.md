@@ -17,7 +17,7 @@
 ![](images/docker_push.JPG)<br>
 
 
-## Docker Link
+## DockerHub Link
 
 https://hub.docker.com/r/imgurmeet/helloworld-fastapi
 
